@@ -173,3 +173,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Security reports go through
 ## License
 
 [MIT](LICENSE)
+
+## Deployment Runbook\n\nA deployment runbook covering environment promotion steps, rollback procedures, database migration safety checks, and post-deploy verification is required before the first production deployment.
